@@ -1,6 +1,7 @@
 # Machine-Learning-Projects
 welcome to my Machine Learning projects repo in this repo we are going to built
 ## 7 Projects we are going to built:
+
 ### 1.) Air Quality Prediction (Linear Regression) 
 ### 2.) Diabetes Classification (Logistic Regression) 
 ### 3.) Face Recognition (KNN) 
@@ -8,6 +9,14 @@ welcome to my Machine Learning projects repo in this repo we are going to built
 ### 5.) Recommendation System (NLP) 
 ### 6.) Word Analogies (Word2Vec)
 ### 7.) Hand Writing Digit Recognition
+♦ Apparel Product Recommendation System
+♦ Face Recognition System
+♦ Handwritten Digit Recognition
+♦ Dominant Color Extraction 
+♦ Word Analogies
+♦ Air Quality Prediction
+♦ Diabetes Classification
+
 ## Some Basics Machine Projects
 ### 1.) [Exploratory-data-analysis](https://github.com/vaibhavhariaramani/Exploratory-data-analysis-Spark-Funds-Investment-CaseStudy)
 ### 2.) [Eye-blink-detection](https://github.com/vaibhavhariaramani/Eye-blink-detection)
