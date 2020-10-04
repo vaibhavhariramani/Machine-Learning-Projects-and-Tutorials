@@ -21,7 +21,9 @@ welcome to my Machine Learning projects repo in this repo we are going to built
 ### 1.) [Exploratory-data-analysis](https://github.com/vaibhavhariaramani/Exploratory-data-analysis-Spark-Funds-Investment-CaseStudy)
 ### 2.) [Eye-blink-detection](https://github.com/vaibhavhariaramani/Eye-blink-detection)
 ### 3.) [Face Detection](https://github.com/vaibhavhariaramani/FaceDetection)
-# [essentials to the Machine Learning algorithm in Python] (https://sites.google.com/view/geeky-traveller/machine-learning/essentials-of-the-machine-learning)
+
+## [essentials to the Machine Learning algorithm in Python] (https://sites.google.com/view/geeky-traveller/machine-learning/essentials-of-the-machine-learning)
+
 ## Topics to Be known 
 #### 1.) libraries
 ##### - [pandas](https://pandas.pydata.org/)
