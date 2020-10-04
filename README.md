@@ -4,22 +4,50 @@ welcome to my Machine Learning projects repo in this repo we are going to built
 
 #### [essentials knowledge to the Machine Learning algorithm in Python](https://sites.google.com/view/geeky-traveller/machine-learning/essentials-of-the-machine-learning)
 
-## Topics to Be known 
+<br>
+
+<img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/ml_head.jpg" alt="Illustration"/>
+
+## Topics to Be known
+
+| libraries known | Algo required | prior Article |  |
+| --- | --- | --- | --- |
+| [pandas](https://pandas.pydata.org/) | gradient descent | [here](https://maelfabien.github.io/statistics/linreg/) | [here]() |
+| [numPy](https://numpy.org/) | Multicolinearnity | [here](https://maelfabien.github.io/statistics/linreg2/) | [here]() |
+| [matplotlib](https://matplotlib.org/) | FEATURE SELECTION | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
+| [sckit-learn](https://scikit-learn.org/stable/) |  | [here](https://maelfabien.github.io/statistics/linreg3/) | [here]() |
+
+
+<br>
+ 
 #### 1.) libraries
-##### - [pandas](https://pandas.pydata.org/)
-##### - [numPy](https://numpy.org/)
-##### - [matplotlib](https://matplotlib.org/)
-##### - [sckit-learn](https://scikit-learn.org/stable/)
+     - [pandas](https://pandas.pydata.org/)
+     - [numPy](https://numpy.org/)
+     - [matplotlib](https://matplotlib.org/)
+     - [sckit-learn](https://scikit-learn.org/stable/)
 
 ====================================================================================================
 
 ##  Projects we are going to built:
 
+### 0.) Exploratory-data-analysis
+        - [Spark Fund Investment Exploratory-data-analysis](https://github.com/vaibhavhariaramani/Exploratory-data-analysis-Spark-Funds-Investment-CaseStudy)
+
 ### 1.) (Linear Regression) 
        - Sales prediction using advertising.csv
        - Car sales prediction
        - Air Quality Prediction 
-### 2.) Diabetes Classification (Logistic Regression) 
+### 2.) Multiple Linear Regression
+       - House price Prediction using RFE(Recursive feature elimination)
+       - Car sales Prediction
+       - Predict cancer mortality using Ordinary Least Squares
+### 3.) Logistic Regression) 
+       - Diabetes Classification 
+       - Telecom Churn Case Study
+       - Titanic Dataset
+### 3.5.) Ridge and Lasso Regression
+        - Co2 emission Prediction
+       
 ### 3.) Face Recognition (KNN) 
 ### 4.) Dominant Color Extraction (K Means Clustering) 
 ### 5.) Recommendation System (NLP) 
