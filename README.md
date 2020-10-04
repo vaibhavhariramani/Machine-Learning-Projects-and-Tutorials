@@ -45,6 +45,7 @@ welcome to my Machine Learning projects repo in this repo we are going to built
    - Diabetes Classification 
    - Telecom Churn Case Study
    - Titanic Dataset
+   - loan Defaulter
 ### 3.5.) Ridge and Lasso Regression
    - Co2 emission Prediction
    - Car Price Prediction - Ridge and Lasso Regression    
