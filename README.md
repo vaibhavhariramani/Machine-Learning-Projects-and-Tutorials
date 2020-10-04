@@ -2,7 +2,7 @@
 welcome to my Machine Learning projects repo in this repo we are going to built
 
 
-## [essentials to the Machine Learning algorithm in Python] (https://sites.google.com/view/geeky-traveller/machine-learning/essentials-of-the-machine-learning)
+### [essentials knowledge to the Machine Learning algorithm in Python](https://sites.google.com/view/geeky-traveller/machine-learning/essentials-of-the-machine-learning)
 
 ## Topics to Be known 
 #### 1.) libraries
