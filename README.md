@@ -11,7 +11,7 @@ welcome to my Machine Learning projects repo in this repo we are going to built
 ##### - [matplotlib](https://matplotlib.org/)
 ##### - [sckit-learn](https://scikit-learn.org/stable/)
 
-=======================================================================================================================
+====================================================================================================
 
 ##  Projects we are going to built:
 
