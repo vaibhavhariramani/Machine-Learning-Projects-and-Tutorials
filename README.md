@@ -12,10 +12,10 @@ welcome to my Machine Learning projects repo in this repo we are going to built
 
 | libraries known | Algo required | prior Article |  |
 | --- | --- | --- | --- |
-| [pandas](https://pandas.pydata.org/) | gradient descent | [here](https://maelfabien.github.io/statistics/linreg/) | [here]() |
-| [numPy](https://numpy.org/) | Multicolinearnity | [here](https://maelfabien.github.io/statistics/linreg2/) | [here]() |
-| [matplotlib](https://matplotlib.org/) | FEATURE SELECTION | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
-| [sckit-learn](https://scikit-learn.org/stable/) |  | [here](https://maelfabien.github.io/statistics/linreg3/) | [here]() |
+| [pandas](https://pandas.pydata.org/) | gradient descent | [linear regression](https://maelfabien.github.io/statistics/linreg/) | [here]() |
+| [numPy](https://numpy.org/) | Multicolinearnity | [multiple linear regression](https://maelfabien.github.io/statistics/linreg2/) | [here]() |
+| [matplotlib](https://matplotlib.org/) | FEATURE SELECTION | [statistics](https://maelfabien.github.io/statistics/Tests/) | --- |
+| [sckit-learn](https://scikit-learn.org/stable/) |  | [linreg3](https://maelfabien.github.io/statistics/linreg3/) | [here]() |
 
 
 <br>
@@ -26,28 +26,28 @@ welcome to my Machine Learning projects repo in this repo we are going to built
      - [matplotlib](https://matplotlib.org/)
      - [sckit-learn](https://scikit-learn.org/stable/)
 
-====================================================================================================
+==================================================================================
 
 ##  Projects we are going to built:
 
 ### 0.) Exploratory-data-analysis
-        - [Spark Fund Investment Exploratory-data-analysis](https://github.com/vaibhavhariaramani/Exploratory-data-analysis-Spark-Funds-Investment-CaseStudy)
+  - [Spark Fund Investment Exploratory-data-analysis](https://github.com/vaibhavhariaramani/Exploratory-data-analysis-Spark-Funds-Investment-CaseStudy)
 
 ### 1.) (Linear Regression) 
-       - Sales prediction using advertising.csv
-       - Car sales prediction
-       - Air Quality Prediction 
+   - Sales prediction using advertising.csv
+   - Car sales prediction
+   - Air Quality Prediction 
 ### 2.) Multiple Linear Regression
-       - House price Prediction using RFE(Recursive feature elimination)
-       - Car sales Prediction
-       - Predict cancer mortality using Ordinary Least Squares
+   - House price Prediction using RFE(Recursive feature elimination)
+   - Car sales Prediction
+   - Predict cancer mortality using Ordinary Least Squares
 ### 3.) Logistic Regression) 
-       - Diabetes Classification 
-       - Telecom Churn Case Study
-       - Titanic Dataset
+   - Diabetes Classification 
+   - Telecom Churn Case Study
+   - Titanic Dataset
 ### 3.5.) Ridge and Lasso Regression
-        - Co2 emission Prediction
-       
+   - Co2 emission Prediction
+   - Car Price Prediction - Ridge and Lasso Regression    
 ### 3.) Face Recognition (KNN) 
 ### 4.) Dominant Color Extraction (K Means Clustering) 
 ### 5.) Recommendation System (NLP) 
