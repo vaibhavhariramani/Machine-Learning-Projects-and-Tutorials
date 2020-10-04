@@ -1,8 +1,24 @@
 # Machine-Learning-Projects
 welcome to my Machine Learning projects repo in this repo we are going to built
-## 7 Projects we are going to built:
 
-### 1.) Air Quality Prediction (Linear Regression) 
+
+## [essentials to the Machine Learning algorithm in Python] (https://sites.google.com/view/geeky-traveller/machine-learning/essentials-of-the-machine-learning)
+
+## Topics to Be known 
+#### 1.) libraries
+##### - [pandas](https://pandas.pydata.org/)
+##### - [numPy](https://numpy.org/)
+##### - [matplotlib](https://matplotlib.org/)
+##### - [sckit-learn](https://scikit-learn.org/stable/)
+
+=========================================================================================================================================================
+
+##  Projects we are going to built:
+
+### 1.) (Linear Regression) 
+       - Sales prediction using advertising.csv
+       - Car sales prediction
+       - Air Quality Prediction 
 ### 2.) Diabetes Classification (Logistic Regression) 
 ### 3.) Face Recognition (KNN) 
 ### 4.) Dominant Color Extraction (K Means Clustering) 
@@ -22,16 +38,8 @@ welcome to my Machine Learning projects repo in this repo we are going to built
 ### 2.) [Eye-blink-detection](https://github.com/vaibhavhariaramani/Eye-blink-detection)
 ### 3.) [Face Detection](https://github.com/vaibhavhariaramani/FaceDetection)
 
-## [essentials to the Machine Learning algorithm in Python] (https://sites.google.com/view/geeky-traveller/machine-learning/essentials-of-the-machine-learning)
-
-## Topics to Be known 
-#### 1.) libraries
-##### - [pandas](https://pandas.pydata.org/)
-##### - [numPy](https://numpy.org/)
-##### - [matplotlib](https://matplotlib.org/)
-##### - [sckit-learn](https://scikit-learn.org/stable/)
-
 =========================================================================================================================================================
+
 ### Made with ❤️by Vaibhav Hariramani
 #### About me
 
